@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0tl-Wm-WbB"; */
+"0tl-Wm-WbB.text" = "Label";
+
+/* Class = "UILabel"; text = "tarifs"; ObjectID = "HUJ-Ki-uZe"; */
+"HUJ-Ki-uZe.text" = "tarifs";
+
+/* Class = "UILabel"; text = "ville"; ObjectID = "Ujj-b6-ygE"; */
+"Ujj-b6-ygE.text" = "ville";
+
+/* Class = "UILabel"; text = "lieu"; ObjectID = "cGB-57-Tzd"; */
+"cGB-57-Tzd.text" = "lieu";
+
+/* Class = "UILabel"; text = "date/horaire"; ObjectID = "g7i-Kz-6Rd"; */
+"g7i-Kz-6Rd.text" = "date/horaire";
+
+/* Class = "UILabel"; text = "description"; ObjectID = "nca-E4-oDJ"; */
+"nca-E4-oDJ.text" = "description";
+
+/* Class = "UILabel"; text = "adresse"; ObjectID = "u3Z-PO-NAi"; */
+"u3Z-PO-NAi.text" = "adresse";
