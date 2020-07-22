@@ -1,5 +1,8 @@
 # AgendaCulturelNantesv2
 agenda culturel de la métropole Nantaise - 
+
+/Users/fred/DEVELOPER/AgendaCulturelNantesv2/mainAgenda.png
+
 première version  - 
 liste des événements du jour en cours - 
 selection d'une date dans un calendrier popup, pour avoir la liste des événements culturels à la date sélectionnée
